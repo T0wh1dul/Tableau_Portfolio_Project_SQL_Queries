@@ -12,7 +12,7 @@ A data analysis project using SQL and Tableau to explore the global impact of CO
 - [SQL Queries Explained](#sql-queries-explained)
 - [Key Insights](#key-insights)
 - [Tableau Dashboard](#tableau-dashboard)
-- [Credits & License](#credits--license)
+- [Credits](#credits)
 
 ---
 
@@ -83,7 +83,7 @@ Vaccination rollout trends over time
 🔗 View Tableau Dashboard **https://public.tableau.com/app/profile/towhidul.islam8478/viz/COVID19Dashboard_17493884683050/Dashboard1**
 **
 
-**Credits & License**
+**Credits**
 Data Source: Our World in Data
 Author: Towhidul Islam
 linkdin: **https://www.linkedin.com/in/towhidul-islam01/**
