@@ -80,12 +80,11 @@ Percent of population infected per country
 
 Vaccination rollout trends over time
 
-🔗 View Tableau Dashboard https://public.tableau.com/app/profile/towhidul.islam8478/viz/COVID19Dashboard_17493884683050/Dashboard1
+🔗 View Tableau Dashboard **https://public.tableau.com/app/profile/towhidul.islam8478/viz/COVID19Dashboard_17493884683050/Dashboard1**
 **
 
 **Credits & License**
 Data Source: Our World in Data
 Author: Towhidul Islam
-linkdin: https://www.linkedin.com/in/towhidul-islam01/
-License: MIT License
+linkdin: **https://www.linkedin.com/in/towhidul-islam01/**
 
