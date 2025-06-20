@@ -1,6 +1,6 @@
 #  COVID-19 Global Data Analysis
 
-A data analysis project using SQL and Tableau to explore the global impact of COVID-19. This project focuses on identifying trends in cases, deaths, infection rates, and vaccination coverage across countries and continents.
+A data analysis project using SQL and Tableau to understand the global impact of COVID-19. This project focus on trends in cases, deaths, infection rates, and vaccination coverage all over the countries and continents.
 
 ---
 
@@ -18,31 +18,31 @@ A data analysis project using SQL and Tableau to explore the global impact of CO
 
 ##  Project Overview
 
-This project aims to analyze the global spread and impact of COVID-19 using SQL for data exploration and Tableau for visualization. The main goals include:
-
-- Calculating total cases and deaths worldwide
-- Identifying countries with the highest death counts
-- Determining which countries had the highest infection rates relative to their population
-- Analyzing vaccination trends over time
+This project mainly done for analyze the global spread and impact of COVID-19 using SQL for finding data and Tableau for visualization. 
+The main goals include:
+- Calculating total cases and deaths worldwide.
+- Identifying countries with the highest death counts.
+- Determining which countries had the highest infection rates relative to their population.
+- and vaccination trends.
 
 ---
 
 ##  Data Sources
 
-The data used in this project comes from the COVID-19 dataset provided by [Our World in Data](https://ourworldindata.org/coronavirus).
+The data used in this project is collected from COVID-19 dataset [Our World in Data](https://ourworldindata.org/coronavirus).
 
-- **CovidDeaths Table**: Contains daily data on cases, deaths, population, location, continent, and date.
-- **CovidVaccinations Table**: Contains vaccination counts and dates for each country.
+- **CovidDeaths Table**: This table contains daily data on cases, deaths, population, location, continent, and date.
+- **CovidVaccinations Table**: Contains vaccination counts and dates for Countries.
 
-The data was loaded into SQL Server for processing.
+For data processing I haved use SQL server.
 
 ---
 
 ## Tools Used
 
-- **SQL Server** – for querying and data transformation
-- **Tableau** – for creating interactive dashboards and visualizations
-- **GitHub** – for version control and sharing the project
+- **SQL Server** – for querying and data transformation.
+- **Tableau** – for creating dashboards and visualizations.
+- **GitHub** – for version control.
 
 ---
 
